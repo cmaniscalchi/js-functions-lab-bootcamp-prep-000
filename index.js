@@ -4,3 +4,5 @@ function happyHolidays() {
 }
 
 happyHolidayTo(holiday, name) returns "Happy ${holiday},${name}!":
+
+holidayCountdown(holiday, days) returns "It's ${days} days until ${holiday}!"
